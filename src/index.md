@@ -1,10 +1,10 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
-postsHeading: Latest posts
-archiveButtonText: See all posts
+title: Learning all the things
+postsHeading: Latest entries
+archiveButtonText: See all entries
 socialImage: ''
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
+And so it begins - a rash and cheeky Ebay bid, a 600 mile round trip to Edinburgh (just nipping out love back soon) and the purchase of a Haynes manual. 
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+I am going to need to learn welding, fabrication and electronics.. how hard can it be! :)
