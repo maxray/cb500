@@ -57,7 +57,7 @@ collections:
         name: "galleryImages"
         widget: "list"
         fields:
-          - {label: Image, name: galleryImage, widget: image}
+          - {label: "Image", name: "galleryImage", widget: "image"}
           - {label: "Title", name: "galleryImageTitle", widget: "string"}
   - label: "Globals"
     name: "globals"
