@@ -13,7 +13,7 @@ I have harboured dreams of building a cafe style bike, ever since visiting Bikes
 
 **Something like this!**
 
-![A customised CB500 - it is good to aim high even if I don't get close.](images/92C47D70-C6C8-4253-9853-61895C81D0A6-4994-000001657CBB3404.jpeg "A customised CB500 - it is good to aim high even if I don't get close.")
+![A customised CB500 - it is good to aim high even if I don't get close.](/images/92C47D70-C6C8-4253-9853-61895C81D0A6-4994-000001657CBB3404.jpeg "A customised CB500 - it is good to aim high even if I don't get close.")
 
 So when it became evident that there was a racing class for the CB500, a cheap commuter bike used by bike messengers and the like - a plan started to form in my mind.
 
@@ -27,11 +27,11 @@ This gave me the opportunity to actually bid on a bike if one turned up, though 
 
 And so it came to pass one evening that I saw a nice little blue CB500, decent miles, looked in good nick and with a Friday evening of beer in me I put a cheeky bid in.
 
-![A 1995 CB500 in blue](images/the-original-cb-500.jpg "A 1995 CB500 in blue")
+![A 1995 CB500 in blue](/images/the-original-cb-500.jpg "A 1995 CB500 in blue")
 
 I woke up to an email saying I had been the lucky winner.. a moment of excitement and the concern washed over me - I hadn't even discussed this with my wife and the shed was currently full of rubbish. This anxiety was compounded when I looked closer and realised where the bike was located...
 
-![Birmingham to Dalkieth - only around 300 . miles each way!](images/Screenshot 2020-01-29 at 22.01.18.png "Birmingham to Dalkieth - only around 300 . miles each way!")
+![Birmingham to Dalkieth - only around 300 . miles each way!](/images/Screenshot 2020-01-29 at 22.01.18.png "Birmingham to Dalkieth - only around 300 . miles each way!")
 
 ### I would walk 500 miles
 
@@ -43,7 +43,7 @@ In reality it was a real pleasure as a '19 plate automatic Transit is lovely to 
 
 5 hours later I arrived and after a lovely chat with the gentleman selling the bike we got it loaded up. 
 
-![Not a bad view](images/not-a-bad-view.jpg "Not a bad view")
+![Not a bad view](/images/not-a-bad-view.jpg "Not a bad view")
 
 The drive home through the borders was pleasant enough, though my 3am start was taking it's toll a little and I eventually pulled up at home around 4pm, jaded but excited.
 
