@@ -2,13 +2,12 @@
   "showThemeCredit": true,
   "name": "My CB500 Cafe Racer Project",
   "shortDesc": "My mission - to take a stock CB500, mod it as a cafe racer and use it on a few track days.",
-  "url": "https://silly-edison-6397a7.netlify.com/",
+  "url": "https://silly-edison-6397a7.netlify.com",
   "authorEmail": "sushkelly@gmail.com",
   "authorHandle": "@maxray",
   "authorName": "Sush Kelly",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
   "paymentPointer": "$pay.stronghold.co/1a1c95a1c99876b4da6a8546c4fc385fa34",
-  "faviconPath": "/images/favicon.png"
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
 }
-
