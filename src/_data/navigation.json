@@ -5,13 +5,9 @@
       "url": "/",
       "external": false
     },
+  
     {
-      "text": "GitHub",
-      "url": "https://github.com/maxray",
-      "external": true
-    },
-    {
-      "text": "Twitter",
+      "text": "@maxray",
       "url": "https://twitter.com/maxray",
       "external": true
     }
