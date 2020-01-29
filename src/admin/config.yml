@@ -53,11 +53,17 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true}
       - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Gallery"
-        name: "galleryImages"
+      - label: "Testimonials"
+        name: "testimonials"
         widget: "list"
         fields:
-          - {label: Image, name: image, widget: image}
+          - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
+          - label: Author
+            name: author
+            widget: object
+            fields:
+              - {label: Name, name: name, widget: string, default: "Emmet"}
+              - {label: Avatar, name: avatar, widget: image, default: "/img/emmet.jpg"}
   - label: "Globals"
     name: "globals"
     files:
