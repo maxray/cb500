@@ -33,7 +33,7 @@ And so it came to pass one evening that I saw a nice little blue CB500, decent m
 
 I woke up to an email saying I had been the lucky winner.. a moment of excitement and the concern washed over me - I hadn't even discussed this with my wife and the shed was currently full of rubbish. This anxiety was compounded when I looked closer and realised where the bike was located...
 
-![Birmingham to Dalkieth - only around 300 . miles each way!](/images/a-long-long-way.png "Birmingham to Dalkieth - only around 300 . miles each way!")
+![Birmingham to Dalkieth - only around 300 . miles each way!](/images/a-long-long-way.png "Birmingham to Dalkieth - only around 300miles each way!")
 
 ### I would walk 500 miles
 
