@@ -1,5 +1,5 @@
 ---
-title: The beginning...
+title: 'In the beginning - God said, ''Let there be bikes!'''
 date: 2019-09-06T23:00:00.000Z
 tags:
   - cb500 cafe resto
