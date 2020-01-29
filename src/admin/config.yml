@@ -56,8 +56,9 @@ collections:
       - label: "Gallery"
         name: "galleryImages"
         widget: "list"
-        field:
-          - {label: Image, name: image, widget: image}
+        fields:
+          - {label: Image, name: galleryImage, widget: image}
+          - {label: "Title", name: "galleryImageTitle", widget: "string"}
   - label: "Globals"
     name: "globals"
     files:
