@@ -4,7 +4,7 @@ backend:
 publish_mode: editorial_workflow
 site_url: "http://cb500project.sushkelly.co.uk/"
 media_folder: "src/images"
-public_folder: "images"
+public_folder: "/images"
 collections:
   - name: "pages"
     label: "Pages"
