@@ -55,10 +55,11 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Gallery"
         name: "galleryImages"
-        widget: "object"
-        fields:
-          - {label: Image, name: galleryImages, widget: image}
-          - {label: "Caption", name: "imageCaption", widget: "string"}
+        widget: "list"
+        field:
+          - {label: Gallery Image, name: galleryImage, widget: image}
+              - {label: Image, name: image, widget: image}
+              - {label: "Caption", name: "imageCaption", widget: "string"}
   - label: "Globals"
     name: "globals"
     files:
