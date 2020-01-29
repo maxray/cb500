@@ -11,6 +11,10 @@ The talk of track days was a constant theme both with my neighbour, the owner of
 
 I have harboured dreams of building a cafe style bike, ever since visiting Bikeshed at Tobacco Dock, though I lack the mechanical experience currently it has been a bit of a pipe dream. 
 
+**Something like this!**
+
+![A customised CB500 - it is good to aim high even if I don't get close.](images/92C47D70-C6C8-4253-9853-61895C81D0A6-4994-000001657CBB3404.jpeg "A customised CB500 - it is good to aim high even if I don't get close.")
+
 So when it became evident that there was a racing class for the CB500, a cheap commuter bike used by bike messengers and the like - a plan started to form in my mind.
 
 ### It started so innocently...
@@ -29,7 +33,7 @@ I woke up to an email saying I had been the lucky winner.. a moment of excitemen
 
 ![Birmingham to Dalkieth - only around 300 . miles each way!](images/Screenshot 2020-01-29 at 22.01.18.png "Birmingham to Dalkieth - only around 300 . miles each way!")
 
-###  I would walk 500 miles
+### I would walk 500 miles
 
 I definitely **wasn't** going to walk there, and my initial idea of getting the train up and riding the bike faded as the realistic voice in my head reminded me I hadn't even seen the bike so a 300 mile journey might not be the best first encounter.
 
