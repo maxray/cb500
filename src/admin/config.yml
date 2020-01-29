@@ -58,7 +58,6 @@ collections:
         widget: "list"
         fields:
           - {label: "Image", name: "galleryImage", widget: "image"}
-          - {label: "Image Title", name: "galleryImageTitle", widget: "string"}
   - label: "Globals"
     name: "globals"
     files:
