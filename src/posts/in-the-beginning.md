@@ -54,3 +54,7 @@ The drive home through the borders was pleasant enough, though my 3am start was 
 Turns out my neighbour had explained exactly where I had been during the day which really pleased my wife but she could see how me and my neighbour were like kids, looking over the bike and discussing its merits.
 
 Turns out I had lucked out, the bike was mechanically sound and started fine. I just needed to get on Amazon and pick up a Haynes Manual and the fun could begin. :)
+
+![And here the CB500 is, ready to be stripped down.](/images/and-here-she-is.jpg "And here the CB500 is, ready to be stripped down.")
+
+**Next post.. The Strip Down!**
