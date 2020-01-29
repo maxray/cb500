@@ -1,0 +1,13 @@
+.post-gallery {
+  list-style:none;
+  display:flex;
+  flex-direction:row;
+  flex-wrap: wrap;
+
+
+  &__item {
+    max-width:300px;
+  }
+
+  
+}

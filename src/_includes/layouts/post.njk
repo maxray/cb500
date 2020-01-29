@@ -18,6 +18,15 @@
       {% include "partials/components/intro.njk" %}
       <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 {{ 'pad-bottom-900' if not site.enableThirdPartyComments }} text-500 ] [ sf-flow ] [ e-content ]">
         {{ content | safe }}
+
+         <ul class="[ post-gallery ]">
+      {% for image in galleryImages %}
+
+        <li class="[ post-gallery__item ]">
+          <img src="{{site.url}}{{ image }}"/>
+        </li>
+      {% endfor %}
+    </ul>
       </div>
       {% if site.enableThirdPartyComments %}
         <hr />
