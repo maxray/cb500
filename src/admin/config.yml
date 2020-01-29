@@ -55,7 +55,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Gallery"
         name: "galleryImages"
-        widget: "list"
+        widget: "object"
         fields:
           - {label: Image, name: galleryImages, widget: image}
           - {label: "Caption", name: "imageCaption", widget: "string"}
