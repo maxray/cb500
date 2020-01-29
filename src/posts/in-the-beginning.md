@@ -5,6 +5,8 @@ tags:
   - cb500 cafe resto
 galleryImages: []
 ---
+![]()
+
 ### These things all begin with a silly idea and maybe a couple of beers.
 
 The talk of track days was a constant theme both with my neighbour, the owner of an agency I work with and my sisters boyfriend. I have never done one and as much as I would like to my Moto Guzzi is not a motorcycle for getting your knee down - much more of a country lane muncher.
@@ -31,7 +33,7 @@ And so it came to pass one evening that I saw a nice little blue CB500, decent m
 
 I woke up to an email saying I had been the lucky winner.. a moment of excitement and the concern washed over me - I hadn't even discussed this with my wife and the shed was currently full of rubbish. This anxiety was compounded when I looked closer and realised where the bike was located...
 
-![Birmingham to Dalkieth - only around 300 . miles each way!](/images/Screenshot 2020-01-29 at 22.01.18.png "Birmingham to Dalkieth - only around 300 . miles each way!")
+![Birmingham to Dalkieth - only around 300 . miles each way!](/images/a-long-long-way.png "Birmingham to Dalkieth - only around 300 . miles each way!")
 
 ### I would walk 500 miles
 
