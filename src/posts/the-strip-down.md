@@ -10,3 +10,5 @@ I won't lie, usually I run into things with way too much eagerness and don't tak
 ### A little by little
 
 Thanks to Amazon Prime I didn't have to wait too long and before long I was sitting in my partially cleared shed with a coffee, manual and some tools to hand.
+
+![Break it down! ](/images/breakdown.gif "Removing all the easy bits first.")
