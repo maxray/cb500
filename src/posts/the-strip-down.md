@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: The Strip Down
-date: 2020-01-30T09:50:27.649Z
+date: 2019-10-01T09:50:27.649Z
 tags:
   - cb500 cafe resto
 ---
