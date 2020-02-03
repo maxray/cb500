@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: Things start to take shape
 socialImage: /images/cb500.jpg
+featureImage: /images/cb500.jpg
 date: 2019-11-03T21:25:03.272Z
 tags:
   - cb500 cafe resto
