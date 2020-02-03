@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Prototyping with card
 socialImage: /images/battery-box1.jpg
-date: 2020-02-03T21:41:02.931Z
+date: 2019-12-11T21:41:02.931Z
 tags:
   - cb500 cafe resto
 ---
