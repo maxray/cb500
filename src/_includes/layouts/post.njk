@@ -1,3 +1,5 @@
+
+
 {% extends 'layouts/base.njk' %}
 {% set pageType = 'Post' %}
 
@@ -27,6 +29,14 @@
         </li>
       {% endfor %}
     </ul>
+
+    {# PAGINATION #}
+
+
+
+    {# END post #}
+ 
+
       </div>
       {% if site.enableThirdPartyComments %}
         <hr />
@@ -51,6 +61,9 @@
         </footer>
       {% endif %}
     </article>
+
+
+    
   </main>
 {% endblock %}
 
