@@ -26,3 +26,5 @@ With things marked out and checked it was time to do the deed and, rather like a
 With the frame chopped I can start looking at what needs to be fabricated, a rear hoop, electrics tray and a frame to mount the seat so it is horizontal. 
 
 Whilst I think about this I can be getting on with a seat cowel and pad.
+
+### Next post... Things start to take shape.
