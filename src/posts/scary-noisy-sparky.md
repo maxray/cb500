@@ -5,7 +5,7 @@ date: 2019-10-30T12:36:04.218Z
 tags:
   - cb500 cafe resto
 ---
-Considering I do a desk bound job I have quite a healthy tool collection in my shed, probably a combination of wanting to try and do house based DIY myself and a childhood messing around in my Dads shed. He was a cabinet maker so give me a drill or sander and I am happy. 
+Considering I do a desk bound job I have quite a healthy tool collection in my shed, probably a combination of wanting to try and do house based DIY myself and a childhood messing around in my Dads garage. He was a cabinet maker so give me a drill or sander and I am happy. 
 
 ### Well this is intimidating!
 
