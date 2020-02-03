@@ -17,7 +17,11 @@ I have always had a healthy respect for circular saws, and am going to add the a
 
 One rule of woodwork that definitely applies is to double check your measurements. You can't glue pieces of bike frame back one easily and I have yet to learn to weld. :D
 
+![The frame is marked and ready to be cut](/images/cutting-the-frame.jpg "The frame is marked and ready to be cut")
+
 With things marked out and checked it was time to do the deed and, rather like a hot knife through butter the first cuts were made - there is no going back now. 
+
+![The cut down CB500 rear end](/images/cutdown-frame.jpg "The cut down CB500 rear end")
 
 With the frame chopped I can start looking at what needs to be fabricated, a rear hoop, electrics tray and a frame to mount the seat so it is horizontal. 
 
