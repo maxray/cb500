@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Scary - Noisy - Sparky
+featureImage: /images/cutdown-frame.jpg
 date: 2019-10-30T12:36:04.218Z
 tags:
   - cb500 cafe resto
