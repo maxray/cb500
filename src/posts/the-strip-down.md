@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: The Strip Down
+featureImage: /images/cutting-the-frame.jpg
 date: 2019-10-01T09:50:27.649Z
 tags:
   - cb500 cafe resto
