@@ -11,6 +11,8 @@ Electric Six did a good job of the song... but I had some genuine fear building 
 
 I had to remind myself that unless I moved forward and got my head into welding then a track day this year was a distant reality and so I made the commitment and got the MightyMig150 ordered. It turned up promptly and was moved to the shed, I had no intention of diving straight in. 
 
+![The MightyMig 150 - straight from the 70s!](/images/mighty-mig-150.jpg "The MightyMig 150 - straight from the 70s!")
+
 Over the weekend I watched a few more YouTube videos and then set about putting the welder together, loading the wire etc. Several cups of tea and once again re reading instructions before leaping ahead and I was ready to fire it up.
 
 ### I'm scared momma!
