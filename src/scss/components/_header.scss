@@ -1,0 +1,48 @@
+.main-header {
+    padding: 4rem 4rem 2px 4rem;
+    text-align: center;
+
+    p {
+        max-width: 80ex;
+        margin:auto;
+    }
+
+    .intro__heading {
+        text-align: center;
+    }
+
+   
+    .intro__meta {
+        overflow: hidden;
+        text-align: center;
+        font-size: 1em;
+        text-transform:uppercase;
+        letter-spacing:1px;
+        margin-bottom:2rem;
+    }
+    .intro__meta:before,
+    .intro__meta:after {
+        border-top: 1px solid var(--color-text);
+        border-bottom: 1px solid var(--color-text);
+        content: "";
+        display: inline-block;
+        height: .5em;
+        position: relative;
+        vertical-align: middle;
+        width: 5%;
+        margin-bottom: .15em;
+    }
+    .intro__meta:before {
+        right: 1em;
+        margin-left: -50%;
+    }
+    .intro__meta:after {
+        left: 1em;
+        margin-right: -50%;
+    }
+
+
+
+  }
+
+  

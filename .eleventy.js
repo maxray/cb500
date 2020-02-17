@@ -51,6 +51,24 @@ module.exports = function(config) {
       .slice(0, site.maxPostsPerPage);
   });
 
+
+  // .eleventy.js
+  config.addCollection('postsNext', collection => {
+    const coll = collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts);
+
+    for(let i = 0; i < coll.length ; i++) {
+      const prevPost = coll[i-1];
+      const nextPost = coll[i + 1];
+
+      coll[i].data["prevPost"] = prevPost;
+      coll[i].data["nextPost"] = nextPost;
+    }
+
+    return coll;
+  });
+
+  
+
   // Plugins
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);

@@ -45,11 +45,13 @@
   }
 
   &__heading {
-    max-width: 40ex;
+    max-width: 80ex;
+    margin:auto;
+    text-align:center;
     color: var(--color-theme-feature-text);
 
     &--compact {
-      max-width: 20ex;
+      max-width: 80ex;
     }
   }
 }
