@@ -7,7 +7,7 @@ socialImage: ''
 featureImage: /images/cb500.jpg
 ---
 
-![Stage 1 is complete!](/images/bedford.jpg 'Stage 1 is complete!')
+![Having a wheelie good time at Cadwell!](/images/wheelie-good-cb500-cadwell.jpg 'Having a wheelie good time at Cadwell!')
 
 And so it begins - a rash and cheeky Ebay bid, a 600 mile round trip to Edinburgh (just nipping out love back soon) and the purchase of a Haynes manual.
 
