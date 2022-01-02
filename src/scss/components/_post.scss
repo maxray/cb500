@@ -2,16 +2,16 @@
   &__body {
     --flow-space: #{get-size(800)};
 
-    p:first-of-type:first-letter {
-      color: var(--color-theme-feature-text);
-      float: left;
-      font-family: Georgia;
-      font-size: 60px;
-      line-height: 60px;
-      padding-top: 6px;
-      padding-right: 10px;
-      padding-left: 4px;
-    }
+    // p:first-of-type:first-letter {
+    //   color: var(--color-theme-feature-text);
+    //   float: left;
+    //   font-family: Georgia;
+    //   font-size: 60px;
+    //   line-height: 60px;
+    //   padding-top: 6px;
+    //   padding-right: 4px;
+    //   padding-left: 4px;
+    // }
 
     /**
      * Generic HTML styles 
