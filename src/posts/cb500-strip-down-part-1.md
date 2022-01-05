@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: CB500 Strip down - Part 1
-featureImage: /images/engine.jpg
+featureImage: /images/stage-1-breakdown.jpg
 date: 2021-10-24T09:50:27.649Z
 tags:
   - cb500 cafe resto

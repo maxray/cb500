@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Why oh why are number plates so big?!
+featureImage: /images/cardboard-tail-tidy.png
 date: 2020-04-20T16:14:19.864Z
 tags:
   - cb500 cafe resto

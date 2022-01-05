@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: I wanted a new exhaust anyway but - not like this! 
+featureImage: /images/motard-in-road.jpg
 date: 2021-04-20T16:14:19.864Z
 tags:
   - cb500 cafe resto

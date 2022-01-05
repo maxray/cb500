@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: And so the big MOT day comes
+featureImage: /images/mot.png
 date: 2020-08-14T16:14:19.864Z
 tags:
   - cb500 cafe resto

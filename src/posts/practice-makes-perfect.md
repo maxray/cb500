@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Practice makes perfect..ish
+featureImage: /images/letter-h-in-weld.png
 date: 2020-02-18T16:14:19.864Z
 tags:
   - cb500 cafe resto

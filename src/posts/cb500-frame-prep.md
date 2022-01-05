@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: CB500 Frame prep 
-featureImage: /images/engine-out.jpg
+featureImage: /images/painted-frame.JPG
 date: 2021-11-15T09:50:27.649Z
 tags:
   - cb500 cafe resto
@@ -13,7 +13,7 @@ Rather like passing the shortest day of the year, it feels like I have hit a mil
 
 Everything I do now is progress towards a working bike rather than taking something apart. The mucky work is very much not over though as there are parts to clean, a tank to strip, an engine to sort and a frame that needs some TLC!
 
-![That is just muck - not rusty forks..  ](/images/wheels-and-forks.jpg "That is just muck - not rusty forks.. ")
+![This frame is looking MUCH better!](/images/painted-frame.JPG "This frame is looking MUCH better!")
 
 
 ### Sand and sand and sand and...

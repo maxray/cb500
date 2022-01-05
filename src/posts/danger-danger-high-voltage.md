@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Danger danger... High Voltage
+featureImage: /images/mighty-mig-150.jpg
 date: 2020-02-09T16:14:19.864Z
 tags:
   - cb500 cafe resto

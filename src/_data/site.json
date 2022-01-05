@@ -7,7 +7,7 @@
   "authorHandle": "@maxray",
   "authorName": "Sush Kelly",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
+  "maxPostsPerPage": 100,
   "paymentPointer": "$pay.stronghold.co/1a1c95a1c99876b4da6a8546c4fc385fa34",
   "faviconPath": "/images/favicon.png"
 }

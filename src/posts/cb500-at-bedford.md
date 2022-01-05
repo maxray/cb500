@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: The CB500 finally makes it onto a track 
+featureImage: /images/Bedford2.jpg
 date: 2021-05-04T16:14:19.864Z
 tags:
   - cb500 cafe resto

@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: The Big Proper Strip Down!
-featureImage: /images/cb500-engine-on-the-desk.jpg
+featureImage: /images/the-starting-point.jpg
 date: 2021-10-23T09:50:27.649Z
 tags:
   - cb500 cafe resto

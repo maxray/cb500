@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Commit to it... the first proper part of the rebuild
+featureImage: /images/wedge-prototype.png
 date: 2020-03-08T16:14:19.864Z
 tags:
   - cb500 cafe resto

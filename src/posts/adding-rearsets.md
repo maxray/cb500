@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Adding rearsets - stage 2 of Project cb500 begins
+featureImage: /images/rear-sets.jpeg
 date: 2021-04-14T16:14:19.864Z
 tags:
   - cb500 cafe resto

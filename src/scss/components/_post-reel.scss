@@ -1,0 +1,59 @@
+.post-reel {
+    display: flex;
+    height: auto;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-color: #fff #000;
+    &__item {
+        width:275px;
+        img {
+        width:275px;
+        height:275px;
+        object-fit:cover;
+        }
+    }
+    .post-reel__link {
+        &,
+        &:visited {
+          color: var(--color-theme-primary);
+          text-decoration: none;
+        }
+    
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+
+  }
+  
+  .post-reel::-webkit-scrollbar {
+    height: 1rem;
+  }
+  
+  .post-reel::-webkit-scrollbar-track {
+    background-color: #000;
+  }
+  
+  .post-reel::-webkit-scrollbar-thumb {
+    background-color: #000;
+    background-image: linear-gradient(#000 0, #000 0.25rem, #fff 0.25rem, #fff 0.75rem, #000 0.75rem);
+  }
+  
+  .post-reel > * {
+    flex: 0 0 auto;
+  }
+  
+  
+  .post-reel > img {
+    height: 100%;
+    flex-basis: auto;
+    width: auto;
+  }
+  
+  .post-reel > * + * {
+    margin-left: 1rem;
+  }
+  
+  .post-reel.overflowing {
+    padding-bottom: 1rem;
+  }
