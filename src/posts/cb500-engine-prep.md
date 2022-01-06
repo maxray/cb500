@@ -7,11 +7,11 @@ tags:
   - cb500 cafe resto
 ---
 
-With the engine sitting on my work bench I could get a decent look at it and work out what was possible... firs thing though was to get some of the gunk and muck off it,
+With the engine sitting on my work bench I could get a decent look at it and work out what was possible... first thing though was to get some of the gunk and muck off it.
 
 ### That's not my engine! 
 
-As I started to peel back the layers of grime on the engine, it became apparant the covers might work as bare metal but the engine block itself would need a coat of paint. In cleaning things up though I saw the tell tale sign of a breakers yard pen. Seems this bike has had a replacement engine at some point. 
+As I started to peel back the layers of grime on the engine, it was clear that the covers might work as bare metal but the engine block itself would need a coat of paint. In cleaning things up though I saw the tell tale sign of a breakers yard pen. Seems this bike has had a replacement engine at some point. 
 
 ![A good sign that this is not the original engine on the bike!](/images/breakers-yard-sign.JPG "A good sign that this is not the original engine on the bike!")
 
@@ -19,11 +19,11 @@ As I started to peel back the layers of grime on the engine, it became apparant 
 
 Things really were pretty grim, the front sprocket especially so! Some elbow grease, degreaser and a new shiny sprocket improved things no end!
 
-![A mucky sprocket and a clean  sprocket](/images/mucky-clean-cog.JPG "A mucky sprocket and a clean  sprocket")
+![A mucky sprocket and a clean sprocket](/images/mucky-clean-cog.JPG "A mucky sprocket and a clean sprocket")
 
 ### Some paint and some polish 
 
-After what seems like days of work, the engine is now in a state where you can pick it up without having to wash your hands or t shirt afterwards. That said it is bloody heavy! I used High Temp matt black paint on the engine block and have left the covers as bare metal. I decided to keep the fins black inside but bare metal on their edges which I think looks ace. 
+After what seems like days of work, the engine is now in a state where you can pick it up without having to wash your hands or t-shirt afterwards. That said it is bloody heavy! I used high temp matt black paint on the engine block and have left the covers as bare metal. I decided to keep the fins black inside but bare metal on their edges which I think looks ace. 
 
 ![You could eat your dinner off this...](/images/clean-engine.JPG "You could eat your dinner off this...")
 
@@ -34,11 +34,11 @@ My neighbour and also my Dad have been pushning for me to really dig into the in
 
 ### Feeler guage and a need for shims
 
-I finally plucked up the courage to open the rocker cover, thankfully the bolts all loosened ok and after borrowing some feeler guages it became apparant that I will need to re shim the valves.  This is ok though - it is what I wanted to learn/bought the bike for in the first place! 
+I finally plucked up the courage to open the rocker cover, thankfully the bolts all loosened ok and after borrowing some feeler guages it looks like I will need to re shim the valves.  This is ok though - it is what I wanted to learn/bought the bike for in the first place! 
 
 ![Feeler guages anda well thumbed manual  ](/images/feeler-guages-and-manual.JPG "Feeler guages anda well thumbed manual ")
 
-Measuriung the valve clearances involved rotating the engin to align certain marks (a T on the inpection hole and an IN and EX on the cam cogs) before measurung the gaps between the valves and the cams. on a CB500 it should be between 0.15 and 0.17mm for the inlet and 0.25 and 0.27mm on the exit. 
+Measuriung the valve clearances involved rotating the engine to align certain marks (a T on the inpection hole and an IN and EX on the cam cogs) before measurung the gaps between the valves and the cams. On a CB500 it should be between 0.15 and 0.17mm for the inlet and 0.25 and 0.27mm on the exit. 
 
 ![Scary times, the engine is open.. DON'T drop anything in!](/images/engine-open.JPG "Scary times, the engine is open.. DON'T drop anything in!")
 

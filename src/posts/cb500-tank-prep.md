@@ -13,7 +13,7 @@ My tank has at least two dings in it - one I "may" have done on my last track da
 
 ### Unleash the flap disk (again) 
 
-I didn't have paint stripper strong enough to touch the cellulose job that had been done by the previous owner so I got busy with the angle grinder and got down to metal fairly quickly.  What became apparant was that the tank was more like a walnut than I expected with little dents all over.  
+I didn't have paint stripper strong enough to touch the cellulose job that had been done by the previous owner so I got busy with the angle grinder and got down to metal fairly quickly.  What became apparent was that the tank was more like a walnut than I expected with little dents all over.  
 
 ![The tank - stage 2](/images/tank-2.JPG "The tank - stage 2")
 

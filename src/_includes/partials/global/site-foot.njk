@@ -1,11 +1,13 @@
 <footer role="contentinfo" class="[ site-foot ] [ pad-top-700 pad-bottom-900 ]">
   <div class="wrapper">
+  
     <div class="[ site-foot__inner ] [ md:box-flex space-between align-start ]">
       {% if site.shortDesc %}
         <div>
           <article class="[ site-foot__details ] [ sf-flow measure-compact ]">
             <h2 class="font-base text-600">{{ site.name }}</h2>
             {{ site.shortDesc | markdownFilter | safe }}
+            <p class="pad-top-500 pad-bottom-500 "><a href="/archive" class="button  [ font-base text-base weight-bold ] "> Read it all from the beginning</a></p>
           </article>
         </div>
       {% endif %}
