@@ -6,7 +6,7 @@
         {% for item in postListItems %}
           {% if item.date.getTime() <= global.now %}
             <li class="[ post-reel__item ] [ sf-flow ]">
-            <img src="{{ item.data.featureImage }}" />
+            <a href="{{ item.url }}" class="post-reel__link" rel="bookmark"><img src="{{ item.data.featureImage }}" /></a>
               <h4 class="font-base leading-tight text-500 weight-mid">
                 <a href="{{ item.url }}" class="post-reel__link" rel="bookmark">{{ item.data.title }}</a>
               </h4>
