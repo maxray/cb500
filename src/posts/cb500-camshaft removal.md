@@ -25,16 +25,16 @@ With the tensioner wound up it was just a couple of bolts to remove and extract.
 
 ### This may wreck your engine 
 
-The next part is easy yet hard. The 2 camshafts each have two cam holders with 4 bolts each. These bolts need to be loosened evenly, if you dont use a criss cross pattern and take your time you can bend a valve or worse damage the cam holders. These cannot just be replaced so a mess up here would mean a whole new upper part of the engine.
+The next part is easy yet hard. The 2 camshafts each have two cam holders with 4 bolts each. These bolts need to be loosened evenly, if you don't use a criss cross pattern and take your time you can bend a valve or worse damage the cam holders. These cannot just be replaced so a mess up here would mean a whole new upper part of the engine.
 
-With trepadation I worked a criss cross pattern on each cam shaft rather than on each cam holder, quarter turn by quarter turn and with no real need for a fanfare they were loose. You never want to drop anything into the engine especially down into the depths where the cam chain runs and so I had near white knuckles as I moved each bolt very carefully. I only had one thing left to do to expose the valves.
+With trepidation I worked a criss cross pattern on each cam shaft rather than on each cam holder, quarter turn by quarter turn and with no real need for a fanfare they were loose. You never want to drop anything into the engine especially down into the depths where the cam chain runs and so I had near white knuckles as I moved each bolt very carefully. I only had one thing left to do to expose the valves.
 
 ![A wire on the cam chain to stop it falling into the engine](/images/camchain.JPG "A wire on the cam chain to stop it falling into the engine")
 
 
 ### Disengage the cam sprockets from the cam chain 
 
-This toomk me a while to figure out and I am not too excited about doing the reverse later... however, eventually by moving one cam shaft up and forwards I got enough slack in the chain to remove it. I decided at this point to add an extra zip tie as a fail safe to stop the chain falling into the depths of the engine. 
+This took me a while to figure out and I am not too excited about doing the reverse later... however, eventually by moving one cam shaft up and forwards I got enough slack in the chain to remove it. I decided at this point to add an extra zip tie as a fail safe to stop the chain falling into the depths of the engine. 
 
 
 ![The followers and valves are exposed - note the ziptie AND wire to hold the chain :)](/images/valves-exposed.JPG "The followers and valves are exposed - note the ziptie AND wire to hold the chain :)")
