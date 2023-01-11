@@ -1,25 +1,23 @@
 ---
 layout: layouts/post.njk
-title: CB500 Shim Replacements 
+title: CB500 Engine Install
 featureImage: /images/valve-shims-in.JPG
-date: 2022-01-18T09:50:27.649Z
+date: 2022-01-23T09:50:27.649Z
 tags:
   - cb500 cafe resto
 ---
 
-A couple of weeks ago I finally plucked up the courage to open my engine and measure the valve clearances. With new shims in my grubby hands it was time to set about swapping them.
+With the engine finally done I was excited to try and get it back into the frame and start the rebuild proper.
 
-### Well you didn't understand did you Sush? 
+### Many hands would make light work 
 
-As I sat preparing to fit the new shims I could hear the old adage measure twice, cut once in my head. Something didn't feel quite right so I decided to make a cuppa and double check my measurements. 
+So obviously this would be a quick job with a few pairs of hands but sadly there was just me so - as per other times during this project I made a brew and had a think.
 
-It turns out I had misunderstood the manual and took it's example of shim calculations as the optimum shim height. Realising this I redid the calculations and got in touch with Rob Carver at SF Parts to explain my error and organise new shims and a refund on the ones I bought. 2 days on and the right shims arrived so I could get cracking. 
+Getting the engine out of the frame was hard but putting it back posed some challenges and I needed to keep in mind once it was in I needed to get the frame and engine up onto paddock stands.
 
-### Let's do this properly - again
+### and heavvvvve!
 
-It was actually an enjoyable job to do weirdly. Maybe I built it up in my head but I took my time, using a magnetic tool to pull each follower off revealing the old shim. Each part was laid out on some cardboard with a drawing of the head on to ensure it went back the right way. 
-
-A 50/50 mix of grease and engine oil was used on the shims, followers and cam lobes and in the time it takes to neck a mug of tea I was ready to pop the cam shafts back. 
+I decided to put the engine on a pallet  
 
 ![Lovely little shims...note the thickness is written on them.](/images/valve-shims-in.JPG "Lovely little shims...note the thickness is written on them.")
 
